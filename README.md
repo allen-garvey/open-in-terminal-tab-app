@@ -1,20 +1,18 @@
-# {$PROJECT_TITLE}
+# Open File In New Terminal Tab
 
-{$SHORT_DESCRIPTION}
+Swift port of Objective-C app - a status bar wrapper around AppleScript to open your current finder directory in a new terminal tab.
 
 ## Dependencies
 
-* {$PLACEHOLDER}
-* {$PLACEHOLDER}
+* Swift 1.2
+* OSX 10.10
+* XCode 6.3.2
 
 ## Getting Started
 
-* {$PLACEHOLDER}
-* {$PLACEHOLDER}
-* {$PLACEHOLDER}
-* [http://www.google.com](Google)
-* `code example`
+* Open in XCode
+* Product -> Archive -> Export
 
 ## License
 
-{$PROJECT_TITLE} is released under the MIT License. See license.txt for more details.
+Open File In New Terminal Tab is released under the MIT License. See license.txt for more details.
